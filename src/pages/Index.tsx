@@ -5,7 +5,7 @@ const Index = () => {
     <div className="h-screen overflow-hidden flex flex-col items-center justify-center px-4 bg-white">
       <div className="max-w-2xl w-full flex flex-col items-center text-center space-y-10">
 
-        <h1>
+        <h1 className="font-display md:text-3xl font-black tracking-tight text-foreground text-3xl">
           haha, I sniped ur domain, dw though                
               
         </h1>
