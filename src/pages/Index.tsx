@@ -2,7 +2,7 @@ import { Tooltip, TooltipContent, TooltipTrigger } from "@/components/ui/tooltip
 
 const Index = () => {
   return (
-    <div className="h-screen overflow-hidden flex flex-col items-center justify-center px-4 bg-background">
+    <div className="h-screen overflow-hidden flex flex-col items-center justify-center px-4 bg-white">
       <div className="max-w-2xl w-full flex flex-col items-center text-center space-y-10">
 
         <h1 className="font-display md:text-4xl font-black tracking-tight text-foreground text-3xl">
