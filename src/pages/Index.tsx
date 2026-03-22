@@ -10,8 +10,8 @@ const Index = () => {
               
         </h1>
 
-        <p className="font-body text-muted-foreground font-light max-w-md text-left text-base">
-          learn from this. always secure your domains so no one snipes your username next time.
+        <p className="font-body text-muted-foreground font-light max-w-md text-lg text-justify">
+          learn from this. always secure your domains so no one snipes your username next time. DM me on discord and get this domain to yourself for free , this is just a prank                                   
         </p>
 
         <div className="space-y-4 pt-2">
