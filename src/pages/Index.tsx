@@ -5,7 +5,7 @@ const Index = () => {
     <div className="h-screen overflow-hidden flex flex-col items-center justify-center px-4 bg-background">
       <div className="max-w-2xl w-full flex flex-col items-center text-center space-y-10">
 
-        <h1 className="font-display text-3xl md:text-4xl font-black tracking-tight text-foreground font-mono">
+        <h1 className="font-display md:text-4xl font-black tracking-tight text-foreground font-mono text-3xl">
           this domain is available to claim
         </h1>
 
