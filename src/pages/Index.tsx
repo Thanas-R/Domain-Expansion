@@ -1,21 +1,21 @@
 const Index = () => {
   return (
-    <div className="shader-bg dotted-bg min-h-screen flex items-center justify-center px-4 py-12">
-      <div className="panel-float animate-float bg-card rounded-[2rem] max-w-xl w-full px-10 py-14 flex flex-col items-center text-center space-y-10">
+    <div className="shader-bg dotted-bg h-screen overflow-hidden flex items-center justify-center px-4">
+      <div className="panel-float animate-float bg-card rounded-[2rem] max-w-xl w-full px-10 py-12 flex flex-col items-center text-center space-y-8">
         
-        <h1 className="font-display text-4xl md:text-5xl font-black tracking-tight text-foreground leading-tight">
-          This Domain Is<br />Available
+        <h1 className="font-display text-4xl md:text-5xl font-black tracking-tight text-foreground whitespace-nowrap">
+          Contact to Claim
         </h1>
 
-        <p className="font-body text-lg text-muted-foreground font-light max-w-sm">
-          Always remember to renew your domains. Reach out and I will return it to you, free of charge.
+        <p className="font-body text-base text-muted-foreground font-light max-w-sm">
+          Learn from this. Always secure your domains so no one snipes your username next time.
         </p>
 
         <div className="w-16 h-px bg-border" />
 
         <div className="space-y-4">
           <p className="font-body text-sm text-muted-foreground uppercase tracking-widest">
-            Contact me on Discord
+            Reach out on Discord
           </p>
           <a
             href="https://discord.com/users/677174403859087378"
