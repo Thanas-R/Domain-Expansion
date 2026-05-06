@@ -49,3 +49,4 @@
 - ameysirdeshpande.vercel.app
 - theinnovationlab.vercel.app
 - thekogre.vercel.app
+- ndigvijay.vercel.app
