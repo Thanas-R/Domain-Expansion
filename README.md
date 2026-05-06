@@ -1,50 +1,50 @@
 # Domains(Vercel) I have sniped till now
 
-encodeai.vercel.app
-tanay-s.vercel.app
-trishanth.vercel.app
-tanays.vercel.app
-trishanth-golvi.vercel.app
-tanay-sarvashetty.vercel.app
-tanaysarvashetty.vercel.app
-pmmdot.vercel.app
-dotpmm.vercel.app
-pratham-s-gowda.vercel.app
-prathamsgowda.vercel.app
-vajjhala-sai-muralidhar.vercel.app
-sai-muralidhar.vercel.app
-joshua-raj.vercel.app
-joshuaraj.vercel.app
-prajval.vercel.app
-vajjhalasaimuralidhar.vercel.app
-saimuralidhar.vercel.app
-kedarchitnis.vercel.app
-tnpranav.vercel.app
-tn-pranav.vercel.app
-samarth-m.vercel.app
-samarthm.vercel.app
-8figalltimepro.vercel.app
-pesuinnovationlab.vercel.app
-suyash-hedge.vercel.app
-tanmay-v.vercel.app
-tanmayv.vercel.app
-joshraj.vercel.app
-josh-raj.vercel.app
-pesuniversity.vercel.app
-pes-uni.vercel.app
-rvce.vercel.app
-pesuacademy.vercel.app
-atomic-crater.vercel.app
-atomiccrater.vercel.app
-ojaskugore.vercel.app
-ojas-kugore.vercel.app
-saisharansk.vercel.app
-sourabhbpatil.vercel.app
-sourabh-b-patil.vercel.app
-arjunphaneesh.vercel.app
-arjun-phaneesh.vercel.app
-jeevanms.vercel.app
-tejasjc.vercel.app
-ameysirdeshpande.vercel.app
-theinnovationlab.vercel.app
-thekogre.vercel.app
+- encodeai.vercel.app
+- tanay-s.vercel.app
+- trishanth.vercel.app
+- tanays.vercel.app
+- trishanth-golvi.vercel.app
+- tanay-sarvashetty.vercel.app
+- tanaysarvashetty.vercel.app
+- pmmdot.vercel.app
+- dotpmm.vercel.app
+- pratham-s-gowda.vercel.app
+- prathamsgowda.vercel.app
+- vajjhala-sai-muralidhar.vercel.app
+- sai-muralidhar.vercel.app
+- joshua-raj.vercel.app
+- joshuaraj.vercel.app
+- prajval.vercel.app
+- vajjhalasaimuralidhar.vercel.app
+- saimuralidhar.vercel.app
+- kedarchitnis.vercel.app
+- tnpranav.vercel.app
+- tn-pranav.vercel.app
+- samarth-m.vercel.app
+- samarthm.vercel.app
+- 8figalltimepro.vercel.app
+- pesuinnovationlab.vercel.app
+- suyash-hedge.vercel.app
+- tanmay-v.vercel.app
+- tanmayv.vercel.app
+- joshraj.vercel.app
+- josh-raj.vercel.app
+- pesuniversity.vercel.app
+- pes-uni.vercel.app
+- rvce.vercel.app
+- pesuacademy.vercel.app
+- atomic-crater.vercel.app
+- atomiccrater.vercel.app
+- ojaskugore.vercel.app
+- ojas-kugore.vercel.app
+- saisharansk.vercel.app
+- sourabhbpatil.vercel.app
+- sourabh-b-patil.vercel.app
+- arjunphaneesh.vercel.app
+- arjun-phaneesh.vercel.app
+- jeevanms.vercel.app
+- tejasjc.vercel.app
+- ameysirdeshpande.vercel.app
+- theinnovationlab.vercel.app
+- thekogre.vercel.app
