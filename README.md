@@ -1,5 +1,6 @@
-# Domains(Vercel) I have sniped till now
+# Domains [Vercel] I have sniped till now
 
+- domain-grid.vercel.app
 - encodeai.vercel.app
 - tanay-s.vercel.app
 - trishanth.vercel.app
