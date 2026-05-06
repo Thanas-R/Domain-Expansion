@@ -94,26 +94,30 @@
         margin-bottom: -6px;
       }
 
-      h1 {
-        font-family: 'Fraunces', serif;
-        font-weight: 900;
-        font-size: clamp(40px, 6.2vw, 78px);
-        line-height: 0.98;
-        letter-spacing: -0.03em;
-        margin: 8px 0 22px;
-      }
-      h1 .line {
+h1 {
+  font-family: 'Fraunces', serif;
+  font-weight: 900;
+  font-size: clamp(40px, 6.2vw, 78px);
+  line-height: 0.98;
+  letter-spacing: -0.03em;
+  margin: 8px 0 22px;
+}
+
+h1 .line {
   display: block;
+  white-space: nowrap;
 }
 
 @media (max-width: 768px) {
-  h1 .line {
-    white-space: normal;
+  h1 {
+    font-size: clamp(24px, 8vw, 42px);
+    line-height: 1.02;
+    letter-spacing: -0.02em;
+    padding: 0 10px;
   }
 
-  h1 {
-    font-size: clamp(30px, 9vw, 48px);
-    line-height: 1.05;
+  h1 .line {
+    white-space: nowrap;
   }
 }
       h1 .ital {
